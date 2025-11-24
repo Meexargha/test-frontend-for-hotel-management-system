@@ -1,0 +1,5 @@
+{
+  "name": "Hotel Staff Manager",
+  "description": "A comprehensive Staff Account Management System for the Hotel Backend, featuring authentication, staff, department, and salary management.",
+  "requestFramePermissions": []
+}
